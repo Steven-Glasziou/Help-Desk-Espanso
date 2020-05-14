@@ -70,9 +70,9 @@ www.catholichealthcare.com.au\n"
 >\n
 6. What is the Asset Number of the device? / Which server are they on? / What is the extension number?\n
 >\n
-7. When was the last time it worked?\n
+7. When did you first notice the issue?\n
 >\n
-8. When did the issue start?\n
+8. When was the last time it worked?\n
 >\n
 9. Is anyone else you know of experiencing this issue?\n
 >\n
@@ -82,7 +82,7 @@ www.catholichealthcare.com.au\n"
 >\n
 \n
 \n
-## Actions\n
+## Trouble Shooting\n
 \n
 -\n
 \n
@@ -95,7 +95,9 @@ www.catholichealthcare.com.au\n"
 >\n
 3. Have you got a copy of any relevant logs / error messages?\n
 >\n
-4. What is the root cause? / Is there already a problem ticket? / Is there an existing ticket?\n
+4. Is the problem always reproducible? If so, what are the exact steps to reproduce?\n
+>\n
+5. What is the root cause? / Is there already a problem ticket? / Is there an existing ticket?\n
 >\n
 \n
 **Is there anything else I can do for you today?**"
