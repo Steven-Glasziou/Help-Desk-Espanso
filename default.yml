@@ -161,9 +161,7 @@ www.catholichealthcare.com.au\n"
 
 # Logout to Solve
   - trigger: ":log"
-    replace: "Hi,\n
-    \n
-    Please try signing out and then signing back in. Do not use the disconnect button in Sapphire, please use the sign out button which you can get by clicking on the profile icon (two icons above the power icon in the Start menu)."
+    replace: "Please try signing out and then signing back in. Do not use the disconnect button in Sapphire, please use the sign out button which you can get by clicking on the profile icon (two icons above the power icon in the Start menu)."
 
 
 # Restore an item
