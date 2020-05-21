@@ -36,18 +36,18 @@ www.catholichealthcare.com.au\n"
   - trigger: ":sin"
     replace: "If these suggestions don't resolve the issue, please ring the Service Desk as soon as possible and we will troubleshoot in order to resolve your issue.\n
     \n
-    Phone : 1800 070 257\n
-    Email : Servicedesk@chcs.com.au\n
-    You can also log into Service now and use a self-service function to log a ticket at:\n
-    https://catholichealthcare.service-now.com\n
+Phone : 1800 070 257\n
+Email : Servicedesk@chcs.com.au\n
+You can also log into Service now and use a self-service function to log a ticket at:\n
+https://catholichealthcare.service-now.com\n
   
-    Kind regards,\n
-    Steven Glasziou | Service Desk Analyst | Information Services\n
-    Catholic Healthcare Limited\n
-    Suite 1, Level 5\n
-    15 Talavera Road, Macquarie Park NSW  2113\n
-    PO Box 914, Macquarie Park NSW 1670\n
-    www.catholichealthcare.com.au\n"
+Kind regards,\n
+Steven Glasziou | Service Desk Analyst | Information Services\n
+Catholic Healthcare Limited\n
+Suite 1, Level 5\n
+15 Talavera Road, Macquarie Park NSW  2113\n
+PO Box 914, Macquarie Park NSW 1670\n
+www.catholichealthcare.com.au\n"
 
 
   # Call Questions
@@ -138,18 +138,18 @@ www.catholichealthcare.com.au\n"
 # Request
   - trigger: ":request"
     replace: "In order to place a request you have to use the IT Service Catalog, which can be found at:\n
-    https://catholichealthcare.service-now.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_category_view.do%3Fv%3D1%26sysparm_parent%3Db68c3096db2c660081d1f389bf96198e%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4%26sysparm_catalog_view%3Dcatalog_default%26sysparm_view%3Dcatalog_default\n
-    \n
-    Items cannot be order through an Incident, so I will be closing this Incident."
+https://catholichealthcare.service-now.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_category_view.do%3Fv%3D1%26sysparm_parent%3Db68c3096db2c660081d1f389bf96198e%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4%26sysparm_catalog_view%3Dcatalog_default%26sysparm_view%3Dcatalog_default\n
+\n
+Items cannot be order through an Incident, so I will be closing this Incident."
 
 
 # Shortcut
   - trigger: ":shortcut"
     replace: "You can create a shortcut on your desktop:\n
-      1. Right click or press and hold on your desktop, click/tap on New, and click/tap on Shortcut.\n
-      2. Copy (Ctrl+C) and Paste (Ctrl+V) the URL address of the website (ex: https://connect.chcs.com.au) you want to create a shortcut to into the location field, and click/tap on Next.\n
-      3. Type a name you want for this website shortcut\n
-      4. Click/tap on Finish."
+1. Right click or press and hold on your desktop, click/tap on New, and click/tap on Shortcut.\n
+2. Copy (Ctrl+C) and Paste (Ctrl+V) the URL address of the website (ex: https://connect.chcs.com.au) you want to create a shortcut to into the location field, and click/tap on Next.\n
+3. Type a name you want for this website shortcut\n
+4. Click/tap on Finish."
 
 
 # General Help
@@ -167,12 +167,18 @@ www.catholichealthcare.com.au\n"
 # Restore an item
   - trigger: ":backup"
     replace: "In order to restore an item:\n
-    1. Right click the folder where the item was previously.\n
-    2. Select Properties\n
-    3. Select Previous Versions\n
-    4. Select the folder that is labeled with a time close to when you last saw the item\n
-    5. Drag the item from the historic folder to the live/current folder"
+1. Right click the folder where the item was previously.\n
+2. Select Properties\n
+3. Select Previous Versions\n
+4. Select the folder that is labeled with a time close to when you last saw the item\n
+5. Drag the item from the historic folder to the live/current folder"
 
+# Personal Device
+- trigger: ":personal"
+  replace: "Unfortunately, the Catholic Healthcare IT service desk cannot guarantee the function of personal devices. We can only provide limited troubleshooting a suggestions for these devices.
+In this case we have exhausted the troubleshooting we can do for this issue and will therefore be closing the ticket.
+  
+If you believe this is in error or if it is preventing you completing your work, please contact your manager"
 
   # Dates
   - trigger: ":date"
