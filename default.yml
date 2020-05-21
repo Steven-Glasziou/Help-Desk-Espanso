@@ -174,10 +174,10 @@ Items cannot be order through an Incident, so I will be closing this Incident."
 5. Drag the item from the historic folder to the live/current folder"
 
 # Personal Device
-- trigger: ":personal"
-  replace: "Unfortunately, the Catholic Healthcare IT service desk cannot guarantee the function of personal devices. We can only provide limited troubleshooting a suggestions for these devices.
-In this case we have exhausted the troubleshooting we can do for this issue and will therefore be closing the ticket.
-  
+  - trigger: ":personal"
+    replace: "Unfortunately, the Catholic Healthcare IT service desk cannot guarantee the function of personal devices. We can only provide limited troubleshooting a suggestions for these devices.\n
+In this case we have exhausted the troubleshooting we can do for this issue and will therefore be closing the ticket.\n
+\n
 If you believe this is in error or if it is preventing you completing your work, please contact your manager"
 
   # Dates
