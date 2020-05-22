@@ -14,20 +14,26 @@
    >
 5. What type of device is it?
    >
-6. What is the Asset Number of the device? / Which server are they on? / What is the extension number?
+6. What is the Asset Number of the device? / Which server are you on? / What is the extension number?
    >
 7. When did you first notice the issue?
    >
 8. When was the last time it worked?
    >
-9. Is anyone else you know of experiencing this issue?
+9. Has anything changed since this issue started?
    >
-10. What have you done already to try and fix the problem?
+10. Have you had this problem before? If so, when?
     >
-11. What is the best way to contact you?
+11. What have you done already to try and fix the problem?
+    >
+12. Is anyone else you know of experiencing this issue?
+    >
+13. What impact does this issue have on you, or your team, or department?
+    >
+14. What is the best way to contact you?
     >
 
-## Trouble Shooting
+## Troubleshooting
 
 -
 
