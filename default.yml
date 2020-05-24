@@ -160,9 +160,7 @@ Items cannot be order through an Incident, so I will be closing this Incident."
 
 # General Help
   - trigger: ":help"
-    replace: "Hi,\n
-    \n
-    Please find below a help article that has the information you require:\n"
+    replace: "Please find below a help article which I believe will help resolve your issue:"
 
 
 # Logout to Solve
