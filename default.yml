@@ -177,12 +177,43 @@ Items cannot be order through an Incident, so I will be closing this Incident."
 4. Select the folder that is labeled with a time close to when you last saw the item\n
 5. Drag the item from the historic folder to the live/current folder"
 
+
 # Personal Device
   - trigger: ":personal"
     replace: "Unfortunately, the Catholic Healthcare IT service desk cannot guarantee the function of personal devices. We can only provide limited troubleshooting a suggestions for these devices.\n
 In this case we have exhausted the troubleshooting we can do for this issue and will therefore be closing the ticket.\n
 \n
 If you believe this is in error or if it is preventing you completing your work, please contact your manager"
+
+
+# Personal Device
+  - trigger: ":oldemail"
+    replace: "This is due to a performance enhancing changing made in Sapphire. We now only load recent emails rather than all of them. This significantly speeds the system up for everyone.\n
+\n
+In order to access older email you can either go to https://outlook.office365.com or search for them in your Desktop Outlook, which will retrieve them from the server. For instance this:\n
+received>1/1/2010\n
+will retrieve all mail in that folder sent after 2010. For more please see:\n
+https://support.office.com/en-us/article/Learn-to-narrow-your-search-criteria-for-better-searches-in-Outlook-D824D1E9-A255-4C8A-8553-276FB895A8DA"
+
+
+# Closed as a duplicate
+  - trigger: ":dup"
+    replace: "I am closing this ticket as a duplicate of the original ticket\n
+    \n
+    The original ticket has been updated with your new message and I am chasing up the status of the ticket. I have to close this ticket in order to ensure that we can keep the best possible idea of which issues are still outstanding."
+
+    
+## Temp
+# Phone Upgrade
+  - trigger: ":intune"
+    replace: "Unfortunately, we are unable to assist with this issue.\n
+\n
+Please speak to your direct manager/admin staff and they will be able to help you."
+
+## Quality of Life
+# Catholic Healthcare
+  - trigger: ":chl"
+    replace: "Catholic Healthcare"
 
   # Dates
   - trigger: ":date"
