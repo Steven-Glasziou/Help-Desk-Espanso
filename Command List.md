@@ -17,4 +17,4 @@ Command | Description
 :backup | [Walking the user through restoring a shadowcopy](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Restore%20an%20File.md)
 :personal | [Explain we don't support personal devices](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Personal%20Device.md)
 :oldemail | [Explain how to find out email in Outlook Desktop](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Old%20Email.md)
-:dup | [Close as a duplicate ticket and explain why](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Closed%20as%20a%20Duplicate.md
+:dup | [Close as a duplicate ticket and explain why](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Closed%20as%20a%20Duplicate.md)
