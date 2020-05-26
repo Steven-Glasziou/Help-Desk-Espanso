@@ -30,3 +30,4 @@ Command | Description
 :oldemail | [Explain how to find out email in Outlook Desktop](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Old%20Email.md)
 :dup | [Close as a duplicate ticket and explain why](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Closed%20as%20a%20Duplicate.md)
 :payweek | [Explains pay week SALi lock](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Pay%20Week.md)
+:data | [Explains that the Macquaire Telecom data usage alert isn't a worry](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Pay%20Week.md)

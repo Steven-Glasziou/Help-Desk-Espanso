@@ -1,0 +1,1 @@
+You can use 100% of your data 4 months in a row before your service will be locked. In general, we don't worry until the service has been locked. If you do loose access the internet, please give us a call on 1800 070 257.

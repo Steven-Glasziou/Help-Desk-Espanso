@@ -138,7 +138,7 @@ In order to ensure that all issues are attended to promptly, this ticket will be
 
 # Spam
   - trigger: ":spam"
-    replace: "This does appear to be a spam message. Thank you for forwarding it to the IT Service Desk and being vigilant to cybersecuirty risks.\n"
+    replace: "This does appear to be a spam message. Thank you for forwarding it to the IT Service Desk and being vigilant to cybersecuirty risks.  Please delete the message without opening it or any links from it.\n"
 
 
 # Adobe
@@ -164,6 +164,11 @@ In order to ensure that all issues are attended to promptly, this ticket will be
 https://catholichealthcare.service-now.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_category_view.do%3Fv%3D1%26sysparm_parent%3Db68c3096db2c660081d1f389bf96198e%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4%26sysparm_catalog_view%3Dcatalog_default%26sysparm_view%3Dcatalog_default\n
 \n
 Items cannot be order through an Incident, so I will be closing this Incident."
+
+
+# Mactel Data Alert
+  - trigger: :data
+    replace: "You can use 100% of your data 4 months in a row before your service will be locked. In general, we don't worry until the service has been locked. If you do loose access the internet, please give us a call on 1800 070 257."
 
 
 # Shortcut
@@ -197,7 +202,7 @@ Items cannot be order through an Incident, so I will be closing this Incident."
 
 # Personal Device
   - trigger: ":personal"
-    replace: "Unfortunately, the Catholic Healthcare IT service desk cannot guarantee the function of personal devices. We can only provide limited troubleshooting a suggestions for these devices.\n
+    replace: "Unfortunately, the Catholic Healthcare IT Service Desk cannot guarantee the function of personal devices. We can only provide limited troubleshooting a suggestions for these devices.\n
 In this case we have exhausted the troubleshooting we can do for this issue and will therefore be closing the ticket.\n
 \n
 If you believe this is in error or if it is preventing you completing your work, please contact your manager"
