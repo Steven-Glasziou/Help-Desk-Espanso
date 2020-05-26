@@ -51,7 +51,7 @@ www.catholichealthcare.com.au\n"
 
 
   # Call Questions
-  - trigger: ":nc"
+  - trigger: ":cs"
     replace: "# Initial Contact Template\n
 \n
 **Hello, this is the IT Service desk, $YOU speaking. How can I help?**\n
@@ -108,6 +108,23 @@ www.catholichealthcare.com.au\n"
 \n
 **Is there anything else I can do for you today?**"
 
+# Get Info
+  - trigger: ":info"
+    replace: "To resolve your issue, we need more information. Please either reply with answers to the questions below or call us on 1800 070 257.\n
+\n
+1. What are you trying to do?\n
+2. What is the issue? Please include as much detail as possible.\n
+3. Are you getting an error message? If so, what is the exact error message?\n
+4. When did the problem begin? Did anything change around that time?\n
+5. Do you know of anyone else who is experiencing this issue?\n
+6. What impact does this issue have on you, or your team, or department?\n
+\n
+If possible, please attach a screenshot or photo of the issue. If you are unsure how to do so, please refer to the guides below:\n
+For computers https://support.microsoft.com/en-us/help/4027213/windows-10-open-snipping-tool-and-take-a-screenshot\n
+or\n
+For phones https://www.samsung.com/us/support/answer/ANS00038721/\n
+\n
+In order to ensure that all issues are attended to promptly, this ticket will be closed if we do not receive a response within 10 days."
 
 # Add Printer
   - trigger: ":printer"
@@ -202,6 +219,12 @@ https://support.office.com/en-us/article/Learn-to-narrow-your-search-criteria-fo
     \n
     The original ticket has been updated with your new message and I am chasing up the status of the ticket. I have to close this ticket in order to ensure that we can keep the best possible idea of which issues are still outstanding."
 
+
+# Pay Week
+  - trigger: ":payweek"
+    replace: "During pay week, Monday to Wednesday SALi (HRESS) is unavailable to submit, approve or change leave.\n
+\n
+Once the payrun is completed, SALi will be available again to submit, approve or cancel leave."
     
 ## Temp
 # Phone Upgrade

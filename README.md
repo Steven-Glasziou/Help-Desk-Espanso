@@ -1,6 +1,6 @@
 # Help-Desk-Espanso
 
-The a series of snippets I use with espanso in order to speed up the processing of Tickets.
+The a series of snippets I use with espanso in order to speed up the processing of service desk tickets.
 
 Each snippet has its own Markdown document for ease of access.
 
@@ -16,7 +16,8 @@ Command | Description
 --- | ---
 :sig | Signature
 :sin | [A sign off asking them to call back if the issue isn't fixed by the suggestions](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Possibly%20Resolved.md)
-:nc | [The new Call Script](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Call%20Script.md)
+:info | [A message to the user asking for more information](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Get%20Info.md)
+:cs | [The Call Script](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Call%20Script.md)
 :printer | [Add a Printer](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Add%20Printer.md)
 :spam | [Spam Message Notification](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Add%20Printer.md)
 :adobe | [Opening a PDF with the wrong Adobe](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Adobe.md)
@@ -28,3 +29,4 @@ Command | Description
 :personal | [Explain we don't support personal devices](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Personal%20Device.md)
 :oldemail | [Explain how to find out email in Outlook Desktop](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Old%20Email.md)
 :dup | [Close as a duplicate ticket and explain why](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Closed%20as%20a%20Duplicate.md)
+:payweek | [Explains pay week SALi lock](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Pay%20Week.md)
