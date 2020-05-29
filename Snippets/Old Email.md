@@ -1,4 +1,4 @@
-This is due to a performance enhancing changing made in Sapphire. We now only load recent emails rather than all of them. This significantly speeds the system up for everyone.
+This is due to a performance enhancing change made in Sapphire. We now only load recent emails rather than all of them. This significantly speeds the system up for everyone.
 
 In order to access older email you can either go to https://outlook.office365.com or search for them in your Desktop Outlook, which will retrieve them from the server. For instance this:
 received>1/1/2010

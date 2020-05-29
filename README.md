@@ -18,7 +18,7 @@ Command | Description
 :sin | [A sign off asking them to call back if the issue isn't fixed by the suggestions](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Possibly%20Resolved.md)
 :info | [A message to the user asking for more information](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Get%20Info.md)
 :cs | [The Call Script](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Call%20Script.md)
-:printer | [Add a Printer](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Add%20Printer.md)
+:printer | [Add a Printer](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Spam.md)
 :spam | [Spam Message Notification](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Add%20Printer.md)
 :adobe | [Opening a PDF with the wrong Adobe](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Adobe.md)
 :request | [Close the ticket as they need a request instead](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Request.md)
