@@ -32,3 +32,4 @@ Command | Description
 :payweek | [Explains pay week SALi lock](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Pay%20Week.md)
 :data | [Explains that the Macquaire Telecom data usage alert isn't a worry](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Pay%20Week.md)
 :wem | [Walks the user through refreshing the WEM agent](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/WEM.md)
+:pass | [Walks the user through resetting their password using security questions](https://github.com/Steven-Glasziou/Help-Desk-Espanso/blob/master/Snippets/Password%20Reset.md)
