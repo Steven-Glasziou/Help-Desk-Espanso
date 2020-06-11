@@ -1,4 +1,4 @@
-"In order to reset your password please do the following:
+In order to reset your password please do the following:
 
 1. Open the following link in any browser (even on your phone) https://passwordreset.microsoftonline.com/
 2. Enter your @chcs.com.au email address into the User ID field and fill in the CAPTCHA
