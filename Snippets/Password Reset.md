@@ -8,7 +8,7 @@ In order to reset your password please do the following:
 - Minimum of 6 characters in length
 - Must not contain your full first name, surname, user name or nick name
 - Be different from previous passwords used; and
-- Contain a mix of alphabetic and non-alphabetic characters
+- Have at least one lowercase letter, upper case letter and symbol or number
 
 5. Use your new password to log into the Catholic Healthcare network.
 
